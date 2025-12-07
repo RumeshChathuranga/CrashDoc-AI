@@ -1,0 +1,9 @@
+{
+  "name": "Copy of CrashDoc AI",
+  "description": "Intelligent accident documentation and emergency response platform powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
